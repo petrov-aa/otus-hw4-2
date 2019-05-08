@@ -1,0 +1,18 @@
+{
+    "name": "petrov-aa/otus-hw4-2",
+    "description": "Petrov-AA, Otus Backend PHP Course, 2019, HW4-2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandr Petrov",
+            "email": "petrov.aa@phystech.edu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PetrovAA\\HW4_2\\": "src/"
+        }
+    },
+    "require": {}
+}
